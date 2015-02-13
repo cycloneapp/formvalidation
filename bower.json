@@ -43,7 +43,7 @@
     "homepage": "http://formvalidation.io",
     "repository": {
         "type": "git",
-        "url": "https://github.com/formvalidation/formvalidation.git"
+        "url": "https://github.com/cycloneapp/formvalidation.git"
     },
     "dependencies": {
         "jquery": ">= 1.9.1",
